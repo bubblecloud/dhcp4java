@@ -1,4 +1,5 @@
-# dhcp4java
+dhcp4java
+=========
 
 The free open-source DHCP API for Java.
 
@@ -6,7 +7,7 @@ This repository is a fork from:
 
 http://www.dhcp4java.com/index
 
-Maven dependency:
+Repository:
 
 <repositories>
     <repository>
@@ -15,6 +16,8 @@ Maven dependency:
         <url>http://repository-bubblecloud.forge.cloudbees.com/release/</url>
     </repository>
 </repositories>
+
+Dependency:
 
 <dependency>
     <groupId>org.bubblecloud</groupId>
